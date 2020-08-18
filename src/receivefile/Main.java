@@ -6,6 +6,8 @@ import java.io.IOException;
 
 import javax.swing.JFileChooser;
 
+import file.File;
+
 public class Main {
 
 	public static void main(String[] args) throws ClassNotFoundException, IOException, InterruptedException {
