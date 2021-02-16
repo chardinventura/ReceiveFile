@@ -1,0 +1,12 @@
+plugins{
+	id 'java'
+	id 'application'
+}
+
+sourceSets.main.java.srcDirs = ['src']
+
+mainClassName = 'Main'
+
+dependencies {
+    compile files('libs/File.jar')
+}
