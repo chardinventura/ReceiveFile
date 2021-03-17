@@ -5,3 +5,4 @@ Este es el socket servidor que sirve para recibir un archivo por parte del clien
 # Preview
 ![](docs/screenshot1.png)
 ![](docs/screenshot2.png)
+![](docs/screenshot3.png)
